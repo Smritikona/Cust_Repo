@@ -1,0 +1,54 @@
+2021-02-01 10:49:55,882 INFO  [log] Status =FAILED, time taken to complete the execution is 8807 ms
+2021-02-01 10:49:55,937 INFO  [log] number of test steps executed are 4
+2021-02-01 10:49:56,839 INFO  [log] total number of rows containing data are 4
+2021-02-01 10:49:56,853 INFO  [log] current username is ssukul12@gmail.com
+2021-02-01 10:49:56,854 INFO  [log] current password is Smriti
+2021-02-01 10:49:56,856 INFO  [log] current password is Sukul
+2021-02-01 10:50:06,160 INFO  [log] Status =FINISHED, time taken to complete the execution is 9207 ms
+2021-02-01 10:50:06,161 INFO  [log] number of test steps executed are 5
+2021-02-01 10:50:06,163 INFO  [log] current username is ssukul123@yahoo.in
+2021-02-01 10:50:06,168 INFO  [log] current password is Smriti
+2021-02-01 10:50:06,173 INFO  [log] current password is Sukul
+2021-02-01 10:50:18,690 INFO  [log] Status =FINISHED, time taken to complete the execution is 12475 ms
+2021-02-01 10:50:18,696 INFO  [log] number of test steps executed are 5
+2021-02-01 10:50:18,701 INFO  [log] current username is ssukul123@in.ibm.com
+2021-02-01 10:50:18,701 INFO  [log] current password is Smriti
+2021-02-01 10:50:18,703 INFO  [log] current password is Sukul
+2021-02-01 10:50:31,070 INFO  [log] Status =FINISHED, time taken to complete the execution is 12299 ms
+2021-02-01 10:50:31,070 INFO  [log] number of test steps executed are 5
+2021-02-01 10:56:27,896 INFO  [log] Status =FAILED, time taken to complete the execution is 7415 ms
+2021-02-01 10:56:27,933 INFO  [log] number of test steps executed are 4
+2021-02-01 10:56:28,915 INFO  [log] total number of rows containing data are 4
+2021-02-01 10:56:28,930 INFO  [log] current username is ssukul12@gmail.com
+2021-02-01 10:56:28,931 INFO  [log] current password is Smriti
+2021-02-01 10:56:28,932 INFO  [log] current password is Sukul
+2021-02-01 10:56:37,571 INFO  [log] Status =FINISHED, time taken to complete the execution is 8573 ms
+2021-02-01 10:56:37,572 INFO  [log] number of test steps executed are 5
+2021-02-01 10:56:37,576 INFO  [log] current username is ssukul123@yahoo.in
+2021-02-01 10:56:37,581 INFO  [log] current password is Smriti
+2021-02-01 10:56:37,588 INFO  [log] current password is Sukul
+2021-02-01 10:56:46,493 INFO  [log] Status =FINISHED, time taken to complete the execution is 8855 ms
+2021-02-01 10:56:46,498 INFO  [log] number of test steps executed are 5
+2021-02-01 10:56:46,500 INFO  [log] current username is ssukul123@in.ibm.com
+2021-02-01 10:56:46,505 INFO  [log] current password is Smriti
+2021-02-01 10:56:46,509 INFO  [log] current password is Sukul
+2021-02-01 10:56:55,223 INFO  [log] Status =FINISHED, time taken to complete the execution is 8658 ms
+2021-02-01 10:56:55,224 INFO  [log] number of test steps executed are 5
+2021-02-01 11:01:59,206 INFO  [log] Status =FINISHED, time taken to complete the execution is 14771 ms
+2021-02-01 11:01:59,280 INFO  [log] number of test steps executed are 5
+2021-02-01 11:01:59,772 INFO  [log] total number of rows containing data are 4
+2021-02-01 11:01:59,788 INFO  [log] current username is ssukul12@gmail.com
+2021-02-01 11:01:59,788 INFO  [log] current password is Smriti
+2021-02-01 11:01:59,789 INFO  [log] current password is Sukul
+2021-02-01 11:02:08,794 INFO  [log] Status =FINISHED, time taken to complete the execution is 8978 ms
+2021-02-01 11:02:08,795 INFO  [log] number of test steps executed are 5
+2021-02-01 11:02:08,801 INFO  [log] current username is ssukul123@yahoo.in
+2021-02-01 11:02:08,805 INFO  [log] current password is Smriti
+2021-02-01 11:02:08,809 INFO  [log] current password is Sukul
+2021-02-01 11:02:19,618 INFO  [log] Status =FINISHED, time taken to complete the execution is 10770 ms
+2021-02-01 11:02:19,619 INFO  [log] number of test steps executed are 5
+2021-02-01 11:02:19,630 INFO  [log] current username is ssukul123@in.ibm.com
+2021-02-01 11:02:19,631 INFO  [log] current password is Smriti
+2021-02-01 11:02:19,632 INFO  [log] current password is Sukul
+2021-02-01 11:02:33,311 INFO  [log] Status =FINISHED, time taken to complete the execution is 13634 ms
+2021-02-01 11:02:33,312 INFO  [log] number of test steps executed are 5

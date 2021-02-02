@@ -1,0 +1,112 @@
+2021-02-01 11:00:05,733 WARN  [SoapUI] Missing folder [C:\Users\SmritikonaSukul\Documents\SDETLP8\Cust_Repo_Proj\my-app\ext] for external libraries
+2021-02-01 11:00:06,211 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\SmritikonaSukul\soapui-settings.xml]
+2021-02-01 11:00:09,377 INFO  [WsdlProject] Loaded project from [file:/C:/Users/SmritikonaSukul/Documents/SDETLP8/Cust_Repo_Proj/my-app/Customer-Repo-soapui-project.xml]
+2021-02-01 11:00:10,578 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Customer_Repo]
+2021-02-01 11:00:10,581 INFO  [SoapUITestCaseRunner] Running Project [Customer_Repo], runType = SEQUENTIAL
+2021-02-01 11:00:10,619 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC_01_Create_Customer_Prop Transfer]
+2021-02-01 11:00:10,671 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-01 11:00:10,763 INFO  [SoapUITestCaseRunner] running step [Property Transfer]
+2021-02-01 11:00:11,343 INFO  [SoapUITestCaseRunner] running step [Create Customer]
+2021-02-01 11:00:13,030 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:00:13,031 INFO  [SoapUITestCaseRunner] running step [GetList]
+2021-02-01 11:00:21,821 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:00:21,830 INFO  [SoapUITestCaseRunner] running step [Property Transfer 1]
+2021-02-01 11:00:21,878 INFO  [SoapUITestCaseRunner] running step [GetById]
+2021-02-01 11:00:22,656 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:00:22,657 INFO  [SoapUITestCaseRunner] running step [Property Transfer 2]
+2021-02-01 11:00:22,664 INFO  [SoapUITestCaseRunner] running step [DeleteById]
+2021-02-01 11:00:23,393 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:00:23,398 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC_01_Create_Customer_Prop Transfer], time taken: 12653ms, status: FINISHED
+2021-02-01 11:00:23,410 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC_01_CustomerRepo_Prop Expanstion]
+2021-02-01 11:00:23,411 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-01 11:00:23,413 INFO  [SoapUITestCaseRunner] running step [Create Customer]
+2021-02-01 11:00:24,453 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:00:24,468 INFO  [SoapUITestCaseRunner] running step [GetList]
+2021-02-01 11:00:29,897 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:00:29,898 INFO  [SoapUITestCaseRunner] running step [GetById]
+2021-02-01 11:00:30,786 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:00:30,786 INFO  [SoapUITestCaseRunner] running step [DeleteId]
+2021-02-01 11:00:31,701 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:00:31,702 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC_01_CustomerRepo_Prop Expanstion], time taken: 8233ms, status: FINISHED
+2021-02-01 11:00:31,714 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC_01_Cust_Repo_Groovy]
+2021-02-01 11:00:31,716 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-01 11:00:31,723 INFO  [SoapUITestCaseRunner] running step [Create Customer]
+2021-02-01 11:00:33,831 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:00:33,834 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2021-02-01 11:00:33,843 INFO  [SoapUITestCaseRunner] running step [GetList]
+2021-02-01 11:00:39,036 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:00:39,036 INFO  [SoapUITestCaseRunner] running step [GetById]
+2021-02-01 11:01:42,630 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:01:42,632 INFO  [SoapUITestCaseRunner] running step [DeleteId]
+2021-02-01 11:01:44,100 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:01:44,105 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC_01_Cust_Repo_Groovy], time taken: 72349ms, status: FINISHED
+2021-02-01 11:01:44,119 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC_01_Cust_Repo_Groovy&Property_Flow]
+2021-02-01 11:01:44,123 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-01 11:01:44,134 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2021-02-01 11:01:44,294 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC_01_CustomerRepo_Prop Expanstion]
+2021-02-01 11:01:44,295 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-01 11:01:44,303 INFO  [SoapUITestCaseRunner] running step [Create Customer]
+2021-02-01 11:01:45,520 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:01:45,521 INFO  [SoapUITestCaseRunner] running step [GetList]
+2021-02-01 11:01:56,675 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:01:56,693 INFO  [SoapUITestCaseRunner] running step [GetById]
+2021-02-01 11:01:57,926 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:01:57,926 INFO  [SoapUITestCaseRunner] running step [DeleteId]
+2021-02-01 11:01:59,121 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:01:59,125 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC_01_CustomerRepo_Prop Expanstion], time taken: 14771ms, status: FINISHED
+2021-02-01 11:01:59,206 INFO  [log] Status =FINISHED, time taken to complete the execution is 14771 ms
+2021-02-01 11:01:59,280 INFO  [log] number of test steps executed are 5
+2021-02-01 11:01:59,281 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC_01_Cust_Repo_Groovy&Property_Flow], time taken: 15137ms, status: FINISHED
+2021-02-01 11:01:59,297 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC_01_Cust_Repo_DataDrivenTesting]
+2021-02-01 11:01:59,297 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2021-02-01 11:01:59,772 INFO  [log] total number of rows containing data are 4
+2021-02-01 11:01:59,788 INFO  [log] current username is ssukul12@gmail.com
+2021-02-01 11:01:59,788 INFO  [log] current password is Smriti
+2021-02-01 11:01:59,789 INFO  [log] current password is Sukul
+2021-02-01 11:01:59,791 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC_01_CustomerRepo_Prop Expanstion]
+2021-02-01 11:01:59,792 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-01 11:01:59,793 INFO  [SoapUITestCaseRunner] running step [Create Customer]
+2021-02-01 11:02:00,864 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:02:00,866 INFO  [SoapUITestCaseRunner] running step [GetList]
+2021-02-01 11:02:06,656 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:02:06,657 INFO  [SoapUITestCaseRunner] running step [GetById]
+2021-02-01 11:02:07,626 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:02:07,626 INFO  [SoapUITestCaseRunner] running step [DeleteId]
+2021-02-01 11:02:08,790 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:02:08,792 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC_01_CustomerRepo_Prop Expanstion], time taken: 8978ms, status: FINISHED
+2021-02-01 11:02:08,794 INFO  [log] Status =FINISHED, time taken to complete the execution is 8978 ms
+2021-02-01 11:02:08,795 INFO  [log] number of test steps executed are 5
+2021-02-01 11:02:08,801 INFO  [log] current username is ssukul123@yahoo.in
+2021-02-01 11:02:08,805 INFO  [log] current password is Smriti
+2021-02-01 11:02:08,809 INFO  [log] current password is Sukul
+2021-02-01 11:02:08,815 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC_01_CustomerRepo_Prop Expanstion]
+2021-02-01 11:02:08,819 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-01 11:02:08,821 INFO  [SoapUITestCaseRunner] running step [Create Customer]
+2021-02-01 11:02:10,035 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:02:10,036 INFO  [SoapUITestCaseRunner] running step [GetList]
+2021-02-01 11:02:16,151 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:02:16,151 INFO  [SoapUITestCaseRunner] running step [GetById]
+2021-02-01 11:02:17,500 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:02:17,501 INFO  [SoapUITestCaseRunner] running step [DeleteId]
+2021-02-01 11:02:19,615 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:02:19,616 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC_01_CustomerRepo_Prop Expanstion], time taken: 10770ms, status: FINISHED
+2021-02-01 11:02:19,618 INFO  [log] Status =FINISHED, time taken to complete the execution is 10770 ms
+2021-02-01 11:02:19,619 INFO  [log] number of test steps executed are 5
+2021-02-01 11:02:19,630 INFO  [log] current username is ssukul123@in.ibm.com
+2021-02-01 11:02:19,631 INFO  [log] current password is Smriti
+2021-02-01 11:02:19,632 INFO  [log] current password is Sukul
+2021-02-01 11:02:19,635 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC_01_CustomerRepo_Prop Expanstion]
+2021-02-01 11:02:19,647 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-01 11:02:19,655 INFO  [SoapUITestCaseRunner] running step [Create Customer]
+2021-02-01 11:02:21,610 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:02:21,610 INFO  [SoapUITestCaseRunner] running step [GetList]
+2021-02-01 11:02:29,779 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:02:29,780 INFO  [SoapUITestCaseRunner] running step [GetById]
+2021-02-01 11:02:31,210 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:02:31,211 INFO  [SoapUITestCaseRunner] running step [DeleteId]
+2021-02-01 11:02:33,308 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 11:02:33,309 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC_01_CustomerRepo_Prop Expanstion], time taken: 13634ms, status: FINISHED
+2021-02-01 11:02:33,311 INFO  [log] Status =FINISHED, time taken to complete the execution is 13634 ms
+2021-02-01 11:02:33,312 INFO  [log] number of test steps executed are 5
+2021-02-01 11:02:33,313 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC_01_Cust_Repo_DataDrivenTesting], time taken: 34007ms, status: FINISHED
+2021-02-01 11:02:33,321 INFO  [SoapUITestCaseRunner] Project [Customer_Repo] finished with status [FINISHED] in 142726ms
